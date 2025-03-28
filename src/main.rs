@@ -62,21 +62,44 @@ fn try_convert_vars() {
     }
 }
 
+fn test_scopes() {    // Эта переменная живёт в функции main
+    let long_lived_binding = 1;
+    let shadowed_variable = 1;
+
+    // Это блок, он имеет меньшую область видимости, чем функция main
+    {
+        // Эта переменная существует только в этом блоке
+        let short_lived_binding = 2;
+        let shadowed_variable = 2;
+
+        println!("shadowed variable: {}", shadowed_variable);
+
+        println!("inner short: {}", short_lived_binding);
+    }
+    // Конец блока
+    println!("shadowed variable: {}", shadowed_variable);
+
+    println!("outer long: {}", long_lived_binding);
+}
+
 fn main() {
     println!("RustyNotes Practice\n");
 
     let d: f32 = find_discriminant(1.0, -10.0, 4.0);
-    println!("find_discriminant(1.0, -10.0, 4.0) = {}", d);
+    println!("# find_discriminant(1.0, -10.0, 4.0) = {}", d);
 
-    print!("complex_numbers = ");
+    print!("# complex_numbers = ");
     test_complex_numbers();
 
-    println!("cycles and collections");
+    println!("# cycles and collections");
     test_collections();
 
-    println!("test floats");
+    println!("# test floats");
     test_floats();
 
-    println!("convert vars");
+    println!("# convert vars");
     try_convert_vars();
+
+    println!("# test scopes");
+    test_scopes();
 }
