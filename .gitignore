@@ -93,3 +93,5 @@ fabric.properties
 
 Notes/.obsidian
 Cargo.lock
+
+practice/**/.idea
