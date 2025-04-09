@@ -82,6 +82,27 @@ fn test_scopes() {    // Эта переменная живёт в функци�
     println!("outer long: {}", long_lived_binding);
 }
 
+fn lift_manager() {
+    let floors: [i32; 9] = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+    for floor in floors {
+        println!("floor: {}", floor);
+    }
+
+    println!("We at highest floor");
+}
+
+fn while_test() {
+    let mut floor: i32 = 0;
+
+    while floor != 0 {
+        floor += 1;
+        println!("floor is {}", floor);
+    }
+
+    println!("lift off");
+}
+
 fn main() {
     println!("RustyNotes Practice\n");
 
@@ -102,4 +123,10 @@ fn main() {
 
     println!("# test scopes");
     test_scopes();
+
+    println!("# `while` lift");
+    while_test();
+
+    println!("# lift manager");
+    lift_manager();
 }
