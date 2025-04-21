@@ -4,14 +4,13 @@
 <p align="center">Notes about Rust in Russian / Конспекты о Rust на русском.</p>
 <br>
 <p align="center">
-    <img src="https://img.shields.io/github/languages/top/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/count/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/alexeev-prog/pyEchoNext?style=for-the-badge">
-    <img src="https://img.shields.io/badge/coverage-54%25-54%25?style=for-the-badge" alt="">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alexeev-prog/pyEchoNext?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/alexeev-prog/rustynotes?style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/count/alexeev-prog/rustynotes?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/alexeev-prog/rustynotes?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/alexeev-prog/rustynotes?style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/alexeev-prog/rustynotes?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/alexeev-prog/rustynotes?style=for-the-badge">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alexeev-prog/rustynotes?style=for-the-badge">
 </p>
 
 <p align="center">
