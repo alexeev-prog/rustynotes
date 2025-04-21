@@ -1,28 +1,7 @@
 # 🚀 rustynotes
 <a id="readme-top"></a> 
 
-<div align="center">  
-  <p align="center">
-    Notes about Rust in Russian / Конспекты о Rust на русском.
-    <br />
-    <a href="https://alexeev-prog.github.io/pyEchoNext/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#-why-choose-pyechonext">Why Choose pyEchoNext</a>
-    ·
-    <a href="#-key-features">Key Features</a>
-    ·
-    <a href="#-getting-started">Getting Started</a>
-    ·
-    <a href="#-usage-examples">Basic Usage</a>
-    ·
-    <a href="#-specifications">Specification</a>
-    ·
-    <a href="https://alexeev-prog.github.io/pyEchoNext/">Documentation</a>
-    ·
-    <a href="https://github.com/alexeev-prog/pyEchoNext/blob/main/LICENSE">License</a>
-  </p>
-</div>
+<p align="center">Notes about Rust in Russian / Конспекты о Rust на русском.</p>
 <br>
 <p align="center">
     <img src="https://img.shields.io/github/languages/top/alexeev-prog/pyEchoNext?style=for-the-badge">
