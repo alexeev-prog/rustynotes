@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/alexeev-prog/pyEchoNext/refs/heads/main/docs/pallet-0.png">
+    <img src="https://raw.githubusercontent.com/alexeev-prog/rustynotes/refs/heads/main/docs/pallet-0.png">
 </p>
 
 Конспекты пишутся в Obsidian.
