@@ -317,9 +317,6 @@ toggles:
   #  such as the graph view.
   relative_path_html: False
 
-  # Do not rewrite links to open them as tabs
-  no_tabs: '<REMOVED>'
-
   # Whether external http anchor links should have a target of "_blank"
   external_blank: False
 
