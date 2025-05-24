@@ -12,7 +12,7 @@ obsidian_folder_path_str: '<DEPRECATED>'
 # should be in obsidian_folder_path_str
 # Can be absent when toggles/compile_md == False
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: 'Notes/Изучение rust.md'
+obsidian_entrypoint_path_str: 'rustynotes/Notes/Изучение rust.md'
 
 # Input and output path of markdown files
 # This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
