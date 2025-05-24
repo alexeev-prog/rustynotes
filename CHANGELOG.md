@@ -1,3 +1,9 @@
+commit ed4e20cd3471249cad077f4ddbae9d6d93b87192
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sat May 24 22:01:19 2025 +0700
+
+    fix github pages
+
 commit a38de32180d5c1f635fd4d6301c414c511f5a8dc
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Sat May 24 21:56:30 2025 +0700
