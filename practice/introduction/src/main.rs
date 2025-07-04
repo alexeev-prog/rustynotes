@@ -103,6 +103,7 @@ fn while_test() {
     println!("lift off");
 }
 
+
 fn main() {
     println!("RustyNotes Practice\n");
 
