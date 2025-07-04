@@ -1,5 +1,5 @@
 # 🚀 rustynotes
-<a id="readme-top"></a> 
+<a id="readme-top"></a>
 
 <p align="center">Notes about Rust in Russian / Конспекты о Rust на русском.</p>
 <br>
@@ -19,7 +19,7 @@
 
 Конспекты пишутся в Obsidian.
 
-![img.png](img.png)
+![alt text](https://raw.githubusercontent.com/alexeev-prog/rustynotes/refs/heads/main/image.png)
 
 ## Оглавление конспектов
 

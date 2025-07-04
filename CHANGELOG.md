@@ -1,3 +1,21 @@
+commit f0195562948d365b77996efead320cab643f052f
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Fri Jul 4 08:20:19 2025 +0700
+
+    add unwrap() docs, add discriminant source and docs
+
+commit 8d9b7ca44ff61a61aaffea0899cc6484fc02b68f
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sat May 24 22:45:43 2025 +0700
+
+    modify
+
+commit 2c89438cce3ce30cbc01370da4677a8b8e1f65ee
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sat May 24 22:30:14 2025 +0700
+
+    fix
+
 commit 4adf25140332c0e89f215db203449c2dce156214
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Sat May 24 22:15:12 2025 +0700
